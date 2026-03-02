@@ -1,1 +1,5 @@
-# project_management
+Today’s work helped me understand that building with AI is less about generating code and more about managing a disciplined process. I learned that a spec is the anchor of the entire project: it locks decisions in place so the AI can’t reinterpret or rewrite them later. This matters because AI doesn’t “remember” in a human sense; it predicts the next token based on patterns, which means it naturally drifts unless I provide fixed constraints. Understanding drift made it clear why long chats fall apart and why every important decision must be externalized in writing.
+
+I also learned how sprints fit into this system. A sprint isn’t just a task list—it’s a small, controlled unit of work with a clear goal, defined scope, explicit tasks, and acceptance criteria that tell me exactly what “done” means. The sprint doc becomes a contract I write before doing the work, and the receipts I attach afterward prove that I followed the plan.
+
+Finally, the idea of a checkpoint packet showed me how to survive context loss. By summarizing the project state—current sprint, completed work, risks, and next criteria—I can restart any chat without losing direction. Altogether, this workflow taught me how to guide AI with clarity, structure, and intentionality.
