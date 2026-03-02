@@ -1,0 +1,3 @@
+Create a small website using a structured AI‑assisted workflow that demonstrates I can control drift, write a stable spec, run small sprints, and ship a reliable final build.
+
+This project is designed to show that I can use a professional AI workflow to plan, constrain, and execute a build without drift. The website itself is intentionally small so I can focus on writing a clear spec, breaking work into sprints, verifying each step with acceptance criteria, and shipping a stable final artifact. Success means demonstrating control, not complexity.
